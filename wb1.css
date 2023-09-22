@@ -1,0 +1,9 @@
+.one{
+    border-width: 2px;
+    border-color: rgb(136, 204, 250);
+    border-style: groove;
+    display:inline-block;
+    width: 250px;
+    padding: 15px;
+    border-radius: 5px;
+}
